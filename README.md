@@ -1,2 +1,3 @@
-# business-runway-calculator
-Ever wanted an app which could tell how your business is doing after 3 years or 10 years later? Now you can 
+# About 
+
+It is one of the old projects I built, so it still has some bugs, however, you can always list them in the issues ^^
